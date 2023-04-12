@@ -104,8 +104,8 @@ $colorGreenDark: darken($colorGreen, 10);
 }
 
 // mixins with parameters
-@mixin button($color: green) {
-  @if ($color == green) {
+@mixin button($color: blue) {
+  @if ($color == blue) {
     background-color: #008000;
   } @else if ($color == red) {
     background-color: #b22222;
