@@ -34,6 +34,10 @@ module.exports = {
       url: '/#projects',
     },
     {
+      name: 'Blog',
+      url: 'blog.loreleensablot.com',
+    },
+    {
       name: 'Contact',
       url: '/#contact',
     },
