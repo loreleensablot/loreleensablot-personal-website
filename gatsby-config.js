@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Loreleen Mae Sablot',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Loreleen Mae "Yoye" Sablot is a mobile developer and passionate about creating efficient and user-friendly mobile applications while sharing my knowledge with others.',
     siteUrl: 'https://loreleensablot.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@yoyesablot',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

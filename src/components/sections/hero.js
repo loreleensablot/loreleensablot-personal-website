@@ -60,20 +60,19 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = (
-    <h2 className="big-heading">Loreleen Mae &ldquo;Yoye&rdquo; Sablot - Mobile Developer.</h2>
-  );
+  const two = <h2 className="big-heading">Loreleen Mae &ldquo;Yoye&rdquo; Sablot</h2>;
   const three = <h3 className="big-heading">I build things for mobile.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I'm a Mobile Developer with over 4 years of experience in Android development, passionate
+        about creating efficient and user-friendly mobile applications while sharing my knowledge
+        with others. Currently, I work as a Mobile Developer at{' '}
+        <a href="https://navagis.com/" target="_blank" rel="noreferrer">
+          Navagis
         </a>
-        .
+        , collaborating with a team of developers to build mobile applications utilizing location
+        intelligence and cloud solutions.
       </p>
     </>
   );
@@ -83,7 +82,7 @@ const Hero = () => {
       href="https://www.newline.co/courses/build-a-spotify-connected-app"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Do you have an app idea to build?
     </a>
   );
 
