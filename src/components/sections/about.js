@@ -137,8 +137,8 @@ const About = () => {
             <p>
               Hello! My name is Loreleen aka Yoye, way back in college, I wanted to be a web
               developer after I graduated but an opportunity came along and I become an Android
-              Developer and the rest is history. Now, I build things in the mobile space and bring
-              back to the community by sharing what I know in Android Development.
+              Developer and the rest is history. Now, I build apps for mobile and bring back to the
+              community by sharing what I know in Android Development.
             </p>
 
             <p>
