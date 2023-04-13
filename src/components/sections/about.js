@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Kotlin', 'Java', 'REST API', 'Jetpack Compose'];
+  const skills = ['Kotlin', 'Java', 'REST API', 'Jetpack Compose', 'Firebase', 'Google Maps'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -143,13 +143,12 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
+              <a href="https://www.nexxuslab.com/">a start-up I co-founded</a>,{' '}
+              <a href="https://www.moneyme.com.au/">a fintech start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
               main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              experiences at <a href="https://navagis.com/">Navagis</a> for a variety of clients.
             </p>
 
             <p>
