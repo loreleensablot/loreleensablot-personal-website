@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Kotlin', 'Java', 'REST API', 'Jetpack Compose'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,10 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Loreleen aka Yoye, way back in college, I wanted to be a web
+              developer after I graduated but an opportunity came along and I become an Android
+              Developer and the rest is history. Now, I build things in the mobile space and bring
+              back to the community by sharing what I know in Android Development.
             </p>
 
             <p>
@@ -154,11 +154,10 @@ const About = () => {
 
             <p>
               I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              <a href="https://store.loreleensablot.com/">
+                launched an Android Development Roadmap
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              that covers everything you need to be an Android Developer!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
