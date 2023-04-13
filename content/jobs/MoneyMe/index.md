@@ -1,9 +1,9 @@
 ---
-date: '2022-12-19'
+date: '2022-11-16'
 title: 'Android Developer'
 company: 'MoneyMe'
 location: 'Sydney, Australia'
-range: 'December 2018 - December 2022'
+range: 'December 2018 - November 2022'
 url: 'https://www.moneyme.com.au'
 ---
 
