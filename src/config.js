@@ -30,12 +30,8 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
-      url: '/#projects',
-    },
-    {
       name: 'Blog',
-      url: 'blog.loreleensablot.com',
+      url: 'https://blog.loreleensablot.com/',
     },
     {
       name: 'Contact',
