@@ -135,10 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Loreleen aka Yoye, way back in college, I wanted to be a web
-              developer after I graduated but an opportunity came along and I become an Android
-              Developer and the rest is history. Now, I build apps for mobile and bring back to the
-              community by sharing what I know in Android Development.
+              Hey there, I'm Loreleen, but you can call me Yoye! Back in the day when I was in
+              college, I dreamed of becoming a web developer, but life had other plans for me. I
+              stumbled upon an opportunity to be an Android Developer, and boy oh boy, did I grab it
+              with both hands! Fast forward to today, and I'm all about building super cool apps for
+              mobiles. I'm also big on giving back to the community by sharing all my Android
+              Development knowledge. Let's make the world a more app-solutely awesome place!
             </p>
 
             <p>
