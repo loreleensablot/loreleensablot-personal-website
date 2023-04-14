@@ -135,21 +135,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there, I'm Loreleen, but you can call me Yoye! Back in the day when I was in
-              college, I dreamed of becoming a web developer, but life had other plans for me. I
-              stumbled upon an opportunity to be an Android Developer, and boy oh boy, did I grab it
-              with both hands! Fast forward to today, and I'm all about building super cool apps for
-              mobiles. I'm also big on giving back to the community by sharing all my Android
-              Development knowledge. Let's make the world a more app-solutely awesome place!
+              Hello there, friends! I go by the name Loreleen, but you can call me Yoye! Back in
+              college, I was all set to become a web developer, but life had other plans for me. I
+              stumbled upon a fantastic opportunity to become an Android Developer, and it's been an
+              incredible journey ever since! Currently, I'm part of the team at Navagis, where I get
+              to work with a wide variety of clients, developing innovative and user-friendly mobile
+              applications. I'm passionate about what I do, and I love sharing my knowledge and
+              experience with other developers.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              These days, I specialize in creating mobile applications that incorporate location
+              intelligence and cloud solutions at <a href="https://navagis.com/">Navagis</a> for a
+              variety of clients. Over the years, I've had the pleasure of working with some
+              fantastic organizations, including at{' '}
               <a href="https://www.nexxuslab.com/">a start-up I co-founded</a>,{' '}
               <a href="https://www.moneyme.com.au/">a fintech company in Australia</a>, and{' '}
-              <a href="https://bicolit.org/">an IT organization in Bicol</a>. My main focus these
-              days is building mobile applications utilizing location intelligence and cloud
-              solutions at <a href="https://navagis.com/">Navagis</a> for a variety of clients.
+              <a href="https://bicolit.org/">an IT organization in Bicol</a>.
             </p>
 
             <p>
