@@ -18,6 +18,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/loreleensablot',
     },
+    {
+      name: 'Youtube',
+      url: 'https://www.youtube.com/channel/UCEhvgZ8zEHO2jntr8dkaPwA',
+    },
   ],
 
   navLinks: [
